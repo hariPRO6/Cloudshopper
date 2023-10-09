@@ -1,7 +1,5 @@
 # Cloudshopper
 An Online Marketplace for Fashion and Electronics
-# Cloud Shopper Online Shopping Website
-
 Welcome to Cloud Shopper, an online shopping website for electronics, clothing, and home accessories.
 
 ## Table of Contents
