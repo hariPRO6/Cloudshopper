@@ -35,6 +35,27 @@ Cloud Shopper is a simple and user-friendly online shopping platform. This websi
 
 3. Explore the different sections and categories.
 
+## Deployment using AWS Amplify Console
+
+1. **Connect to Amplify Console:**
+    - Log in to [AWS Console](https://aws.amazon.com/console/).
+    - Navigate to the "Amplify" service.
+    - Click on "Get Started" under the "Deploy" section.
+
+2. **Connect Repository:**
+    - Choose your repository provider (GitHub, Bitbucket, GitLab).
+    - Follow on-screen instructions to connect your repository.
+
+3. **Configure Build Settings:**
+    - Amplify will detect project settings. Configure build commands and output directory.
+
+4. **Save and Deploy:**
+    - Review settings and click "Save and Deploy" to start deployment.
+
+5. **Access Deployed Website:**
+    - Once deployment is successful, Amplify Console provides a unique URL for your live site.
+
+Now, users can access the deployed website by visiting the provided URL.
 
 
 ## License
