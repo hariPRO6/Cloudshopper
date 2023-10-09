@@ -38,20 +38,10 @@
             overflow: hidden;
         }
         
-        h1 {
-            display: flex;
-            align-items: center;
-            margin: 0;
-        }
+        
         img {
             margin-right: 10px; /* Adjust spacing between the icon and text */
             animation: moveRight 2s forwards;
-        }
-
-        span {
-            display: inline-block;
-            opacity: 0;
-            animation: fadeIn 2s forwards;
         }
 
         @keyframes moveRight {
@@ -61,6 +51,18 @@
             to {
                 transform: translateX(0);
             }
+        }
+
+        h1 {
+            display: flex;
+            align-items: center;
+            margin: 0;
+        }
+
+        span {
+            display: inline-block;
+            opacity: 0;
+            animation: fadeIn 2s forwards;
         }
 
         @keyframes fadeIn {
@@ -101,7 +103,9 @@
         <header>
         <h1><img src="https://static.vecteezy.com/system/resources/previews/000/644/217/original/shopping-cart-icon-vector.jpg" alt="Shopping Cart" width="30"> Cloud Shopper</h1>
     </header>
-        
+        <header>
+            <h1>Cloud Shopper</h1>
+        </header>
     
         <main>
             <section>
